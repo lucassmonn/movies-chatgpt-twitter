@@ -15,5 +15,5 @@ npm install
 So
 
 ```
-npm run job
+npm start
 ```
